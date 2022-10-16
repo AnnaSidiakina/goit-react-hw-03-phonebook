@@ -1,0 +1,11 @@
+.form {
+  padding: 20px;
+}
+.label {
+  margin-right: 10px;
+  font-size: 14px;
+}
+.input {
+  margin-left: 5px;
+  border-radius: 3px;
+}

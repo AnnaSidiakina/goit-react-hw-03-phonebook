@@ -1,0 +1,40 @@
+.container {
+  background-color: #ececec;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 10px;
+  margin-top: 20px;
+  border-radius: 3px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.title {
+  font-size: 18px;
+}
+.list {
+  list-style: none;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.text {
+  margin-right: 10px;
+  font-size: 14px;
+  margin-right: auto;
+}
+.number {
+  color: teal;
+  font-size: 12px;
+  border: 1px solid teal;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+.button {
+  margin-left: 20px;
+}
