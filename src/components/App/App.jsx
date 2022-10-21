@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import { nanoid } from 'nanoid';
 import PropTypes from 'prop-types';
 import styles from './App.module.css';
-import Form from '../components/AddContactsForm/AddContactsForm';
-import ContactsList from '../components/ContactsList/ContactsList';
-import Filter from '../components/Filter/Filter';
+import Form from '../AddContactsForm/AddContactsForm';
+import ContactsList from '../ContactsList/ContactsList';
+import Filter from '../Filter/Filter';
 
 class App extends Component {
   state = {
